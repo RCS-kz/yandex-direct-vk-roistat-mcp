@@ -1,0 +1,71 @@
+COMMERCIAL END USER LICENSE AGREEMENT (EULA)
+rcs-ads-mcp — production MCP connector for Yandex Direct, VK Ads and Roistat
+Copyright (c) 2026 RCS.KZ (ТОО "РСЭС", Казахстан). All rights reserved.
+
+This software and accompanying documentation (the "Software") are licensed,
+not sold, to you under the terms set forth below. By downloading, installing,
+or using the Software, you agree to be bound by these terms. If you do not
+agree, do not install or use the Software.
+
+1. LICENSE GRANT
+   Subject to the terms of this Agreement and payment of applicable fees, RCS.KZ
+   grants you a limited, non-exclusive, non-transferable, revocable license to
+   install and use the Software on machines owned or controlled by you solely
+   for your internal business purposes.
+
+2. TIERS
+   The Software is offered in multiple tiers (Free, Pro, Business, Enterprise).
+   Features available in each tier are described on https://rcs.kz/rcs-ads-mcp
+   and may be gated by license verification.
+
+3. RESTRICTIONS
+   You shall NOT, and shall not permit any third party to:
+   (a) reverse engineer, decompile, disassemble, or otherwise attempt to derive
+       the source code of the Software, except to the extent such activity is
+       expressly permitted by applicable law notwithstanding this limitation;
+   (b) modify, adapt, translate, or create derivative works based on the Software;
+   (c) remove, alter, or obscure any proprietary notices on the Software;
+   (d) sublicense, rent, lease, lend, or otherwise transfer the Software;
+   (e) use the Software to provide managed services to third parties without a
+       separate written agreement with RCS.KZ;
+   (f) circumvent or attempt to circumvent any license enforcement mechanism.
+
+4. FREE TIER AND OPEN-CORE
+   Certain components of the Software may be made available under an open-source
+   license in a separate repository. Those components are governed by their
+   respective licenses. The proprietary portions distributed in this package
+   (including obfuscated bundles, license verification logic, and tooling beyond
+   the open-core scope) are governed exclusively by this EULA.
+
+5. DATA AND PRIVACY
+   The Software processes data from your Yandex Direct, VK Ads and Roistat
+   accounts locally on the machine where it runs. Advertising account
+   credentials never leave that machine and are never sent to RCS.KZ.
+   Pro and higher tiers may perform an
+   online license check against license.rcs.kz, transmitting only the license
+   key identifier. See https://rcs.kz/rcs-ads-mcp/privacy for full policy.
+
+6. TERM AND TERMINATION
+   This Agreement is effective until terminated. Your rights under this
+   Agreement will terminate automatically without notice if you fail to comply
+   with any term hereof. Upon termination, you shall cease all use and destroy
+   all copies of the Software.
+
+7. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY
+   KIND. RCS.KZ DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+   LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL RCS.KZ BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+   CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS OR REVENUES,
+   ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE SOFTWARE.
+
+9. GOVERNING LAW
+   This Agreement is governed by the laws of the Republic of Kazakhstan.
+   Any dispute shall be resolved in the competent courts of Almaty, Kazakhstan,
+   unless otherwise required by mandatory applicable law.
+
+10. CONTACT
+    RCS.KZ — cloud@rcs.kz — https://rcs.kz
